@@ -1,22 +1,15 @@
 {
-  "name": "@ngrx/example-app",
+  "name": "sample",
   "version": "1.0.0",
-  "description": "Example application demoing the @ngrx platform",
+  "description": "Demo @ngrx",
   "main": "index.ts",
   "scripts": {
     "build": "ng build --prod",
     "start": "ng serve",
     "test": "ng test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ngrx/example-app.git"
-  },
-  "author": "Sean Larkin",
+  "author": "Leonab",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/ngrx/example-app/issues"
-  },
   "homepage": "https://github.com/ngrx/example-app#readme",
   "engines": {
     "node": ">= 4.2.1",
