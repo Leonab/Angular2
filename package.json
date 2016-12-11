@@ -10,7 +10,6 @@
   },
   "author": "Leonab",
   "license": "MIT",
-  "homepage": "https://github.com/ngrx/example-app#readme",
   "engines": {
     "node": ">= 4.2.1",
     "npm": ">= 3"
